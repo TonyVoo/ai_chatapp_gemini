@@ -17,7 +17,7 @@ Authentication: JWT (JSON Web Token)
 📦 Installation
 1️⃣ Clone the repository
 
-git clone [https://github.com/your-username/ai-chat-app.git](https://github.com/TonyVoo/ai_chatapp_gemini.git)
+git clone https://github.com/TonyVoo/ai_chatapp_gemini.git
 
 cd ai-chat-app
 
